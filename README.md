@@ -1,4 +1,6 @@
-* Fonts used
+# Ressources used to build Sowebio documentation
+
+## B612 Font family
 
 PolarSys B612 font family - https://github.com/polarsys/b612
 
@@ -21,11 +23,10 @@ Copyright (c) 2012, AIRBUS (airbus-group.com). All rights reserved.
 License : SIL Open Font License v1.1 - https://scripts.sil.org/OFL
 
 
-* Fonts previously used
+## Humanist font family
 
-Humanst521 Lt BT.ttf Copyright (C) Bitstream 1990-1993 (1)
-Humanst521 Lt BT Italic.ttf Copyright (C) Bitstream 1990-1993 (1) 
+Humanstist 521 Light Copyright (C) Bitstream 1990-1993
 
-(1) License unknown to our knowledge. Humanist 521 fonts are available for free on many fonts web sites. We got theses Humanist 521 fonts from our Corel Ventura 4.2 for Windows 3 software acquired in 1993. We still have the ~380 pages Corel Ventura original book gathering fonts, portraits, animals, icons and so on, where Humanist 521 (~Gill Sans) fonts and its variants are printed on left F15 page. The Corel Ventura book does not specify any fonts license nor usage limitation. But then, we saw Monotype has acquired Bitstream and we've got serious reasons to believe Humaninst 521 Lt BT font falls into commercial license rules. 
+Related license unknown to our knowledge. Humanist 521 fonts are available for free on many fonts web sites. We saw Monotype has acquired Bitstream and we've got serious reasons to believe Humanist 521 Light font falls into commercial license rules. When in doubt, and assuming that the Humanist font was a thing of the past (no € and ¢ signs for example), we found the very legible B612 font above to be relevant.
 
-When in doubt, and assuming that the Humanist font was a thing of the past (no €¢ sign for example), we found the very legible B612 font to be relevant.
+
